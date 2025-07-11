@@ -189,5 +189,46 @@ nav{
 .form-part{
     display: flex;
     margin: 100px;
+    padding: 71px 0;
     justify-content: space-between;
+    align-items: center;
+}
+
+.form-part-head-txt{
+    font-size: 97px;
+    font-weight: bold;
+}
+
+.form label{
+    display: block;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 10px;
+    margin-top: 19px;
+}
+
+.form input{
+    /* width: 100%; */
+    height: 70px;
+    padding: 20px 32px;
+    border-radius: 10px;
+    border: 1px solid #D6DDED;
+    font-size: 20px;
+    color: #00000050;
+}
+
+textarea{
+    /* width: 100%; */
+    height: 135px;
+    border-radius: 10px;
+    display: block;
+    padding: 20px 32px;
+    border: 1px solid #D6DDED;
+    font-size: 20px;
+    color: #00000050;
+}
+
+.form button{
+    margin-top: 19px;
+    width: 100%;
 }
