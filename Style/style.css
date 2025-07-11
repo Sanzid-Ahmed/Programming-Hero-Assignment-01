@@ -53,3 +53,70 @@ nav{
     font-size: 65px;
     margin-bottom: 37px;
 }
+
+
+
+
+
+
+/* Action section style */
+.action-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 100px;
+}
+
+.action-text{
+    font-size: 42px;
+    font-weight: bold;
+    color: #252432;
+}
+
+.action-txt-content{
+    margin: 23px 0;
+    font-size: 24px;
+    color: #25243250;
+}
+
+.action-img{
+    width: 403px;
+    height: 328px;
+    border-radius: 48px;
+}
+
+
+
+
+/* Productive User section style */
+.Productive-Users{
+    margin: 100px;
+    text-align: center;
+    background-color: #4E47FF10;
+    padding: 50px 80px;
+    border-radius: 24px;
+}
+
+.Productive-Users-head{
+    font-size: 38px;
+    color: #252432;
+    font-weight: bold;
+}
+
+.Productive-Users-content{
+    display: flex;
+    justify-content: center;
+    gap: 158px;
+    margin-top: 40px;
+}
+
+.Productive-Users-content-text-number{
+    font-size: 80px;
+    font-weight: bold;
+    color: #4E47FF;
+}
+
+.Productive-Users-content-description{
+    font-size: 20px;
+    color: #00000050;
+}
