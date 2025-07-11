@@ -149,6 +149,7 @@ nav{
     text-align: left;
     padding: 24px;
     border-radius: 14px;
+    box-shadow: 1px 1px 3px;
 }
 
 .user-say-box-img-inside{
